@@ -1,0 +1,7 @@
+sklearn
+matplotlib
+pandas
+numpy
+-U scikit-learn
+missingno
+mpl-toolkits.clifford
