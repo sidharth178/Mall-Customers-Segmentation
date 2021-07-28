@@ -23,7 +23,7 @@ All the required libraries are included in the file <code>requirements.txt</code
 - Dunn Index
 - Silhouette Score
 
-## Clustering
+## 👬**Clustering**
 
 <p align="center">
   <img src="clustered_img.png" />
